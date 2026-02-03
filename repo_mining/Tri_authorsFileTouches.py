@@ -16,7 +16,8 @@ INPUT_CSV = "data/file_rootbeer.csv"
 OUTPUT_CSV = "data/file_touches.csv"
 
 # GitHub token
-TOKEN = "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"
+# TOKEN = "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" << real token
+TOKEN = "ghp_qKnUCwXlpaKQ0dlxgWJ1NlB5JpwgDi3QeHmf"
 
 
 # =========================
