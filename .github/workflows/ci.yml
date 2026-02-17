@@ -1,9 +1,7 @@
-name: CI Workflow  # Name of the workflow
-
-on:
+name: CI Workflow Coverage Gate # Name of the workflow
+on: 
   push:
   pull_request:
-
 jobs:
   build:
     runs-on: ubuntu-latest  # Use the latest Ubuntu runner
